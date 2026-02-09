@@ -79,6 +79,6 @@ decrypted = rail_fence_decrypt(encrypted, rails)
 print("Decrypted:", decrypted)
 
 ### OUTPUT
-Encrypted: HOLELWRDLO
-Decrypted: HELLOWORLD
+#Encrypted: HOLELWRDLO
+#Decrypted: HELLOWORLD
 
