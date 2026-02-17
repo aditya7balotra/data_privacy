@@ -36,4 +36,7 @@ On GitHub:
 3. Add a clear title + short description.
 4. Submit PR.
 
+## Code structure
+Make sure you allign with the code structure being followed yet.
+
 **Good to go!!!**
