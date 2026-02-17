@@ -2,8 +2,6 @@
 
 Thanks for contributing 🙌
 
-This is a simple Git workflow for beginners.
-
 ## 1) Fork and clone
 
 ```bash
@@ -38,9 +36,4 @@ On GitHub:
 3. Add a clear title + short description.
 4. Submit PR.
 
-## Quick checklist
-
-- [ ] I created a new branch
-- [ ] My commit message is clear
-- [ ] I pushed my branch
-- [ ] I opened a PR
+**Good to go!!!**
