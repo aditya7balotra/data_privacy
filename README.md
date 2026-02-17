@@ -7,7 +7,7 @@
 
 ### Contribution
 #### Open to all types of related contributions. Feel free to make PR.
-- See [CONTRIBUTING.md](./CONTRIBUTING.md) for a beginner-friendly guide.
+- See [CONTRIBUTING.md](./CONTRIBUTING.md) for guide.
 
 ---
 
